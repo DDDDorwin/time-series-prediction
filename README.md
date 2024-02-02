@@ -2,6 +2,9 @@
 
 This project focuses on predicting future internet traffic using Call Detail Records (CDRs) provided by the Semantics and Knowledge Innovation Lab (SKIL). Utilizing PyTorch for deep learning and a dataset comprising two months of CDR data.
 
+Dataset: [https://www.nature.com/articles/sdata201555](https://www.nature.com/articles/sdata201555)"
+
+
 ## Project Overview
 
 The goal of this project is to leverage time series analysis techniques to predict internet traffic accurately. This involves extensive data preprocessing and cleaning of the CDR dataset to make it suitable for time series forecasting. The final dataset is structured into grouped pickle sets for efficient training and testing.
